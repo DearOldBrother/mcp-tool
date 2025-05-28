@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "python-text-tool": {
+        "command": "python",
+        "args": ["your/path/to/here/main.py"],
+        "env": {}
+      }
+    }
+  }
